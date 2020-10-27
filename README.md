@@ -1,4 +1,4 @@
-### Simple-TextEditor-project-JavaScript
+### Simple-TextEditor-project-With-JavaScript
 
 ### 
 
