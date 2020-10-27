@@ -2,5 +2,7 @@
 
 ### 
 
- <img src="https://github.com/AyeshaAzam/Final_InstagramClone_WithReactAndFirebase/blob/master/src/Images/instagram-1.PNG" />
+ <img src="https://github.com/AyeshaAzam/Simple-TextEditor-project-JavaScript/blob/master/images/textEditor-Project.PNG" />
+ 
+
   
